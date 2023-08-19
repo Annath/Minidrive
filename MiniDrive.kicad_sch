@@ -771,7 +771,7 @@
     )
     (pin "1" (uuid 23567163-765d-4aba-9dbc-53dc1b5a2ff8))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "#PWR01") (unit 1)
         )
@@ -796,7 +796,7 @@
     )
     (pin "1" (uuid 378df716-3fe0-445b-96e5-d1a013d17484))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "#PWR010") (unit 1)
         )
@@ -821,7 +821,7 @@
     )
     (pin "1" (uuid d91a84c5-9315-4400-a0df-b4c387e43323))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "TP1") (unit 1)
         )
@@ -846,7 +846,7 @@
     )
     (pin "1" (uuid 2f78b0f6-2e65-458f-9659-90cff3b5d681))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "#PWR011") (unit 1)
         )
@@ -872,7 +872,7 @@
     (pin "1" (uuid c9290e97-f687-4b9d-bc8b-d763c1bdd52d))
     (pin "2" (uuid 9a2d9119-1446-4287-a559-2f8fdb4abed7))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "J2") (unit 1)
         )
@@ -898,7 +898,7 @@
     (pin "1" (uuid b1eb466b-bfea-4eb0-a5c0-3bc36e25be73))
     (pin "2" (uuid 6e39bfb7-0f0b-490c-9844-fa1937befc09))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "R3") (unit 1)
         )
@@ -923,7 +923,7 @@
     )
     (pin "1" (uuid 8e77e8ec-01e9-4619-a04a-0b6cd08d5ba1))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "#PWR06") (unit 1)
         )
@@ -948,7 +948,7 @@
     )
     (pin "1" (uuid aebe237c-d7f1-4bb8-a627-8e246ec8f9a1))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "#PWR02") (unit 1)
         )
@@ -972,7 +972,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "H1") (unit 1)
         )
@@ -997,7 +997,7 @@
     )
     (pin "1" (uuid ace9a9d1-0fcc-4fb4-9452-9cac70d98476))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "#PWR05") (unit 1)
         )
@@ -1023,7 +1023,7 @@
     (pin "1" (uuid 14bab764-02d9-4e7e-8be4-dcad39cf712a))
     (pin "2" (uuid 5f29c199-bf31-4df2-9fef-fa261146ae36))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "C4") (unit 1)
         )
@@ -1049,7 +1049,7 @@
     (pin "1" (uuid 8fb6e63e-d88a-4d29-a105-546805caec02))
     (pin "2" (uuid 06df06dc-3723-483d-a7bd-6c5e00531636))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "C3") (unit 1)
         )
@@ -1075,7 +1075,7 @@
     (pin "1" (uuid 4b52b9a0-15ec-462e-88ed-282fde0d08e9))
     (pin "2" (uuid 0d99a219-7652-4304-8b3e-78dc949a0078))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "J1") (unit 1)
         )
@@ -1101,7 +1101,7 @@
     (pin "1" (uuid 6d3661d0-78a2-42b6-b742-aafadc49467e))
     (pin "2" (uuid 3e080efa-df69-4c8a-87d1-592d10f7f1e1))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "R4") (unit 1)
         )
@@ -1126,7 +1126,7 @@
     )
     (pin "1" (uuid 474ab5e4-64cf-43e7-a0c1-8a15e727fbe3))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "#PWR08") (unit 1)
         )
@@ -1151,7 +1151,7 @@
     )
     (pin "1" (uuid 55493f06-4b2c-4d89-a618-97ce3f756de0))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "#FLG01") (unit 1)
         )
@@ -1177,7 +1177,7 @@
     (pin "1" (uuid 82bdd2cb-2017-4d9f-8fa5-f04c69cb049a))
     (pin "2" (uuid 448b858b-ad66-4460-b933-b917dbeaecc0))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "L1") (unit 1)
         )
@@ -1202,7 +1202,7 @@
     )
     (pin "1" (uuid 28a5a149-5671-4907-9043-a7d5b4fa014c))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "TP3") (unit 1)
         )
@@ -1226,7 +1226,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "FID1") (unit 1)
         )
@@ -1251,7 +1251,7 @@
     )
     (pin "1" (uuid fbd350f0-5e89-4afa-8718-2d72741bd2d1))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "TP2") (unit 1)
         )
@@ -1276,7 +1276,7 @@
     )
     (pin "1" (uuid f2938254-ece2-49a6-99c8-4a9b8962abca))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "#PWR09") (unit 1)
         )
@@ -1302,7 +1302,7 @@
     (pin "1" (uuid 8e0f099b-2d23-45f1-bbe6-a65fa9951257))
     (pin "2" (uuid d4ef1feb-d1fa-4d69-b6ca-5f39e00090f8))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "C2") (unit 1)
         )
@@ -1327,7 +1327,7 @@
     )
     (pin "1" (uuid 8222fd3b-fcde-4e85-a5c3-fabefba38059))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "#FLG02") (unit 1)
         )
@@ -1352,7 +1352,7 @@
     )
     (pin "1" (uuid 83f1db96-547d-4fa6-982c-f151bf30a949))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "#PWR04") (unit 1)
         )
@@ -1378,7 +1378,7 @@
     (pin "1" (uuid 661ca158-290c-48f4-b297-236fd651c51e))
     (pin "2" (uuid e33b8643-4069-4cce-abb8-dd8c5c27ac8f))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "C1") (unit 1)
         )
@@ -1403,7 +1403,7 @@
     )
     (pin "1" (uuid 3634aa50-5610-45d3-9ef3-6fa22d68f44d))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "#PWR03") (unit 1)
         )
@@ -1428,7 +1428,7 @@
     )
     (pin "1" (uuid 78f3b6d5-e2b6-4f61-9fa0-6626c0d99ff5))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "#PWR07") (unit 1)
         )
@@ -1454,7 +1454,7 @@
     (pin "1" (uuid eba38484-8eec-4664-87ff-22f87f6bca41))
     (pin "2" (uuid 3a7bd9d4-b489-46a9-a1b6-6e31668ca843))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "R1") (unit 1)
         )
@@ -1480,7 +1480,7 @@
     (pin "1" (uuid d2157212-9749-4531-8457-b7866047d405))
     (pin "2" (uuid 3fc991b4-aaae-4c8a-bfd3-71224dbf9590))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "R2") (unit 1)
         )
@@ -1506,7 +1506,7 @@
     (pin "1" (uuid b04f2f75-e7c9-4c48-bbff-99c086721e64))
     (pin "2" (uuid 35bb000b-8bb9-41e1-89fa-becea2d5e8cf))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "R5") (unit 1)
         )
@@ -1532,7 +1532,7 @@
     (pin "1" (uuid 7b6bd1cc-7e4e-462b-ba96-4af840a8c377))
     (pin "2" (uuid a32be072-5ab5-47ef-b28c-d1e06b6fbc76))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "TP6") (unit 1)
         )
@@ -1556,7 +1556,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "H2") (unit 1)
         )
@@ -1586,7 +1586,7 @@
     (pin "5" (uuid a221d363-1c66-45f8-bb55-3f82a09dadde))
     (pin "6" (uuid 325225e9-e2c0-4007-8756-04bfe3f0a91f))
     (instances
-      (project "LED-Driver"
+      (project "MiniDrive"
         (path "/e06caad1-a246-4f16-9d4f-053507cbe732"
           (reference "U1") (unit 1)
         )
