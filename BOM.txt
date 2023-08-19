@@ -1,0 +1,10 @@
+RefDes  Mfg         Part #              Description
+C1,C3   Samsung     CL10B104JB8NNNC     0.1 uF ceramic capacitor
+C2,C4   Kyocera     KGM31HR51V106MU     10 uF ceramic capacitor
+R1      TE Conn     RLC73K2BR133FTD     133 mOhms ±1% resistor
+R2,R5   Stackpole   RMCF0402ZT0R00      0 Ohm jumper/resistor
+R3      Panasonic   ERJ-1GNF5102C       51 kOhm ±1% resistor
+R4      TE Conn     CRG0805F13K         13 kOhm ±1% resistor
+L1	    Bourns      RLB0914-180KL       18 uH inductor
+U1	    TI          TPS92200D1DDCR      TPS92200 LED driver
+J1,J2   Molex       436500200           2-pin, PCB-mount connector
