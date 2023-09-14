@@ -5,6 +5,6 @@ R1      133 mOhms ±1% resistor, 1206    TE Conn     RLC73K2BR133FTDF
 R2,R5   0 Ohm jumper/resistor, 1206     Vishay      CRCW12060000Z0EB
 R3      51 kOhm ±1% resistor, 1206      Vishay      CRCW120651K0FKEA
 R4      13 kOhm ±1% resistor, 1206      Vishay      CRCW120613K0FKEA
-L1      18 uH inductor                  Bourns      RLB0914-180KL
+L1      18 uH inductor                  Wurth       74404084180
 U1      TPS92200 LED driver             TI          TPS92200D1DDCR
 J1,J2   2-pin, PCB-mount connector      Molex       43650-0200
