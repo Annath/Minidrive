@@ -8,3 +8,5 @@ R4      13 kOhm ±1% resistor, 1206      Vishay      CRCW120613K0FKEA
 L1      18 uH inductor                  Wurth       74404084180
 U1      TPS92200 LED driver             TI          TPS92200D1DDCR
 J1,J2   2-pin, PCB-mount connector      Molex       43650-0200
+D1      Blue LED (3.2V Vf)              Wurth       150060BS55040
+R6      2 kOhm ±5% resistor, 0603       Rohm        SDR03EZPJ202
