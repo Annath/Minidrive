@@ -1,12 +1,17 @@
 RefDes  Description                     Mfg         Part #
 C1,C3   0.1 uF ceramic capacitor, 1210  Kemet       C1210C104K1RACTM
 C2,C4   10 uF ceramic capacitor, 1206   Samsung     CL31B106KBHNNNE
-R1      133 mOhms ±1% resistor, 1206    TE Conn     RLC73K2BR133FTDF
-R2,R5   0 Ohm jumper/resistor, 1206     Vishay      CRCW12060000Z0EB
-R3      51 kOhm ±1% resistor, 1206      Vishay      CRCW120651K0FKEA
-R4      13 kOhm ±1% resistor, 1206      Vishay      CRCW120613K0FKEA
-L1      18 uH inductor                  Wurth       74404084180
-U1      TPS92200 LED driver             TI          TPS92200D1DDCR
-J1,J2   2-pin, PCB-mount connector      Molex       43650-0200
+C5*     0.1 uF ceramic capacitor, 0402  Samsung     CL05A104KA5NNNC
 D1      Blue LED (3.2V Vf)              Wurth       150060BS55040
-R6      2 kOhm ±5% resistor, 0603       Rohm        SDR03EZPJ202
+F1      PTC fuse, 800 mA, 100ms, 1206   Eaton       PTSAHT120630V016
+J1,J2   2-pin, PCB-mount connector      Molex       43650-0200
+J3*     JST PH 2-pin, PTH, vertical     JST         B2B-PH-K-S
+L1      18 uH inductor                  Wurth       74404084180
+R1      133 mOhms ±1% resistor, 0805    TE          RLC73N2AR133FTD
+R2,R5   0 Ohm jumper/resistor, 0805     Stackpole   RMCF0805ZT0R00
+R3      51 kOhm ±1% resistor, 0805      TE          CRG0805F51K
+R4      13 kOhm ±1% resistor, 0805      TE          CRG0805F13K
+R6      2 kOhm ±5% resistor, 0805       Panasonic   ERJ-P06J202V
+U1      TPS92200 LED driver             TI          TPS92200D1DDCR
+
+* = do not order, not populated
