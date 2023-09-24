@@ -3,7 +3,6 @@ C1,C3   0.1 uF ceramic capacitor, 1210  Kemet       C1210C104K1RACTM
 C2,C4   10 uF ceramic capacitor, 1206   Samsung     CL31B106KBHNNNE
 C5*     0.1 uF ceramic capacitor, 0402  Samsung     CL05A104KA5NNNC
 D1      Blue LED (3.2V Vf)              Wurth       150060BS55040
-F1      PTC fuse, 800 mA, 100ms, 1206   Eaton       PTSAHT120630V016
 J1,J2   2-pin, PCB-mount connector      Molex       43650-0200
 J3*     JST PH 2-pin, PTH, vertical     JST         B2B-PH-K-S
 L1      18 uH inductor                  Wurth       74404084180
